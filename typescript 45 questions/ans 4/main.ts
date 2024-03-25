@@ -1,0 +1,1 @@
+console.log('Carol Burnett once said,"when you have a dream, you have got to grab it and never let go."');
